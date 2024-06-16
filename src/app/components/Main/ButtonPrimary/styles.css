@@ -1,0 +1,13 @@
+.button-primary{
+    display: inline-block;
+    color: #ffffff;
+    font-size: 1.2rem;
+    background-color: var(--detail);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: 0.2s;
+}
+
+.button-primary:hover{
+    letter-spacing: 0.1rem;
+}
