@@ -1,0 +1,26 @@
+.hero-container{
+    height: 100vh;
+    padding: 0 8rem;
+    background-image: url("https://i.ibb.co/KX8pvpC/home-img.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.hero-content{
+    position: absolute;
+    top: calc(50% - 131px);
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    max-width: 30rem;
+}
+
+.hero-content h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.hero-content p{
+    font-size: 1.4rem;
+    margin: 1rem 0;
+}
