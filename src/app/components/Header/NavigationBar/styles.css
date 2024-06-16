@@ -1,0 +1,24 @@
+.navbar{
+    margin: 0 1rem;
+}
+
+.navbar .navbar-list{
+    display: flex;
+    gap: 1.5rem;
+}
+
+.navbar .navbar-list .navbar-list-item a{
+    color: #fff;
+    font-size: 1.2rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    transition: 500ms;
+}
+
+.navbar .navbar-list .navbar-list-item a:hover{
+    color: var(--detail);
+    font-size: 1.4rem;
+    border-bottom: 0.1rem solid var(--detail);
+    padding-bottom: 0.4rem;
+}
