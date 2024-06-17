@@ -1,0 +1,16 @@
+.menu-section{
+    padding: 0 8rem;
+    margin-bottom: 4rem;
+    font-family: "Roboto", sans-serif;
+    color: #ffffff;
+}
+
+.menu-section h2{
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.menu-section h2 span{
+    color: var(--color-02);
+}

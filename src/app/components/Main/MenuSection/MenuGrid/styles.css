@@ -1,0 +1,44 @@
+.menu-container{
+    display: grid;
+    gap: 1rem;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fill, 300px);
+    grid-template-rows: auto;
+}
+
+.menu-container .menu-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    border: 1px solid var(--color-03);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.menu-container .menu-item:hover{
+    background-color: #ffffff;
+}
+
+.menu-container .menu-item:hover > *{
+    color: #000000;
+}
+
+.menu-container .menu-item img{
+    margin-bottom: 1rem;
+}
+
+.menu-container .menu-item h4{
+    margin-bottom: 1rem;
+}
+
+.menu-container .menu-item p{
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+
+.menu-container .menu-item p span{
+    font-size: 0.8rem;
+    font-weight: lighter;
+    text-decoration: line-through;
+}
