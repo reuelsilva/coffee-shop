@@ -1,4 +1,4 @@
-<p>projeto coffee-shop do front-end de uma cafeteria online com diretório server para back-end e buscar dados dinâmicos</p>
+<p>projeto <strong>coffee-shop</strong> do front-end de uma cafeteria online desenvolvendo também o back-end no diretório server para alimentar os dados do front-end.</p>
 
 <h2>Para executar o projeto faça:</h2>
 <p>Clone para sua máquina o repositório: <code>https://github.com/reuelsilva/coffee-shop.git</code></p>
