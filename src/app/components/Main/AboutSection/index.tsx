@@ -6,7 +6,7 @@ import "./styles.css"
 export default function AboutSection():ReactElement{
     return(
         <section id="about" className="about-section">
-            <h2><span>SOBRE</span> NÓS</h2>
+            <h2><span>SOBRE </span>NÓS</h2>
             <div className="about-container">
                 <div className="about-ilustration">
                     <Image src={"https://i.ibb.co/GRpcL8v/about-img.jpg"} alt="Imagem ilustrativa" width={500} height={500}/>
