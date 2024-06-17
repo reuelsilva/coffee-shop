@@ -1,8 +1,9 @@
 .button-primary{
     display: inline-block;
+    width: fit-content;
     color: #ffffff;
     font-size: 1.2rem;
-    background-color: var(--detail);
+    background-color: var(--color-02);
     text-decoration: none;
     padding: 0.5rem 1rem;
     transition: 0.2s;

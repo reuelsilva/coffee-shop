@@ -6,9 +6,10 @@
 }
 
 :root{
-  --black: #010103;
-  --detail: #d3ad7f;
-  --gray: rgba(255,255,255,0.3);
+  --color-01: #010103;
+  --color-02: #d3ad7f;
+  --color-03: rgba(255,255,255,0.3);
+  --color-04: #13131a;
 } 
 
 * {
@@ -18,5 +19,5 @@
 }
 
 body{
-  background-color: var(--black);
+  background-color: var(--color-01);
 }

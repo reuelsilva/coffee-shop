@@ -8,6 +8,6 @@
     align-items: center;
     justify-content: space-between;
     padding: 1.5rem 8rem;
-    background-color: var(--black);
-    border-bottom:  0.1rem solid var(--gray);
+    background-color: var(--color-01);
+    border-bottom:  0.1rem solid var(--color-03);
 }

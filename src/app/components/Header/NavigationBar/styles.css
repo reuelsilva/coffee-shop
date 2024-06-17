@@ -17,8 +17,8 @@
 }
 
 .navbar .navbar-list .navbar-list-item a:hover{
-    color: var(--detail);
+    color: var(--color-02);
     font-size: 1.4rem;
-    border-bottom: 0.1rem solid var(--detail);
+    border-bottom: 0.1rem solid var(--color-02);
     padding-bottom: 0.4rem;
 }
