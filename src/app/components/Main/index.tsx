@@ -1,10 +1,10 @@
 import { ReactElement } from "react";
-import Hero from "./Hero";
+import HeroSection from "./HeroSection";
 
 export default function Main():ReactElement{
     return(
         <main>
-            <Hero/>
+            <HeroSection/>
         </main>
     )
 }

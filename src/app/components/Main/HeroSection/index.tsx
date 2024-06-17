@@ -2,7 +2,7 @@ import { ReactElement } from "react";
 import ButtonPrimary from "../ButtonPrimary";
 import "./styles.css"
 
-export default function Hero():ReactElement{
+export default function HeroSection():ReactElement{
     return(
         <section className="hero-section">
             <div className="hero-content">
